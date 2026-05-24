@@ -1,4 +1,2 @@
-#!/usr/bin/env python
-
 import libpygit
 libpygit.main()
